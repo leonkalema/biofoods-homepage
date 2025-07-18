@@ -238,12 +238,12 @@
 								</div>
 								<div class="mb-8">
 									<div class="flex items-baseline space-x-2">
-										<span class="text-5xl font-light text-slate-900">KES 320,000</span>
+										<span class="text-5xl font-light text-slate-900">KES 380,000</span>
 										<span class="text-slate-500 text-lg">one-time</span>
 									</div>
 									<div class="mt-2 flex items-center space-x-2">
 										<span class="text-sm text-emerald-600 bg-emerald-50 px-3 py-1 rounded-full font-medium">Best Value</span>
-										<span class="text-sm text-slate-500">~$2,400 USD</span>
+										<span class="text-sm text-slate-500">~$2,850 USD</span>
 									</div>
 								</div>
 								<div class="space-y-4">
